@@ -1,0 +1,7 @@
+*.iml
+target/
+.idea/
+*.sh
+*.DS_Store
+*.csv*
+files/

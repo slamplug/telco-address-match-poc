@@ -1,0 +1,53 @@
+[
+  {
+    "organisationName": null,
+    "subBuilding": null,
+    "buildingName": null,
+    "buildingNumber": "37",
+    "dependantThoroughfare": null,
+    "street": "St. Gowan Avenue",
+    "locality": null,
+    "postTown": "Cardiff",
+    "county": "South Glamorgan",
+    "postcode": "CF14 4JX",
+    "addressQualifier": "GOLD",
+    "alk": "A00016555131",
+    "cssDistrictCode": "SW",
+    "exchangeCode": "WXC",
+    "postcodeValid": true
+  },
+  {
+    "organisationName": null,
+    "subBuilding": null,
+    "buildingName": null,
+    "buildingNumber": "39",
+    "dependantThoroughfare": null,
+    "street": "St. Gowan Avenue",
+    "locality": null,
+    "postTown": "Cardiff",
+    "county": "South Glamorgan",
+    "postcode": "CF14 4JX",
+    "addressQualifier": "GOLD",
+    "alk": "A00016555194",
+    "cssDistrictCode": "SW",
+    "exchangeCode": "WXC",
+    "postcodeValid": true
+  },
+  {
+    "organisationName": null,
+    "subBuilding": null,
+    "buildingName": null,
+    "buildingNumber": "4",
+    "dependantThoroughfare": null,
+    "street": "St. Gowan Avenue",
+    "locality": null,
+    "postTown": "Cardiff",
+    "county": "South Glamorgan",
+    "postcode": "CF14 4JX",
+    "addressQualifier": "GOLD",
+    "alk": "A00036025383",
+    "cssDistrictCode": "SW",
+    "exchangeCode": "WXC",
+    "postcodeValid": true
+  }
+]
